@@ -13,4 +13,4 @@ Sirve para la creación de objetos STL fusionados, restados o divididos y su pos
 nota: compilado para WIN32
 
 
-![Imagen csg_complejo](https://github.com/jepalza/FB_CSG/blob/main/pictures/complejo.jpg)
+![Imagen csg_complejo](https://github.com/jepalza/FB_CSG/blob/main/pictures/copmplejo.jpg)
